@@ -101,7 +101,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "University of Engineering and Technology Lahore, Pakistan",
       logo: require("./assets/images/uetlogo.png"),
       subHeader: "Bachelor of Computer Science",
       duration: "December 2022 - Present",
@@ -112,7 +112,7 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "GOVERNMENT ISLAMIA GRADUATE COLLEGE CIVIL LINES, LAHORE",
+      schoolName: "Govt. Islamia Graduate College Civil Lines, Lahore",
       logo: require("./assets/images/giccl.png"),
       subHeader: "Intermediate",
       duration: "September 2020 - July 2022",
