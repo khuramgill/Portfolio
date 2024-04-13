@@ -38,7 +38,7 @@ const socialMediaLinks = {
   gmail: "khuramiqbalofficial@gmail.com",
   gitlab: "https://gitlab.com/khuramgill",
   medium: "https://medium.com/@khuramiqbalofficial",
-  leetcode: "https://leetcode.com/khuramgill/",
+  // leetcode: "https://leetcode.com/khuramgill/",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
