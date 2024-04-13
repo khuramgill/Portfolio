@@ -6,6 +6,7 @@ import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
 
 // Splash Screen
+<title>Khuram Gill - Portfolio</title>
 
 const splashScreen = {
   enabled: true, // set false to disable splash screen
