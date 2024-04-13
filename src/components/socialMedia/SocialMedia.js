@@ -1,7 +1,6 @@
 import React from "react";
 import "./SocialMedia.scss";
 import {socialMediaLinks} from "../../portfolio";
-import LeetCodeIcon from './assets/images/LeetCode.svg';
 
 
 export default function socialMedia() {
@@ -117,17 +116,7 @@ export default function socialMedia() {
           <span></span>
         </a>
       ) : null}
-      {socialMediaLinks.leetcode ? (
-  <a
-    href={socialMediaLinks.leetcode}
-    className="icon-button leetcode"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img src={LeetCodeIcon} alt="LeetCode Icon" />
-    <span></span>
-  </a>
-) : null}
+      
 
 
 
