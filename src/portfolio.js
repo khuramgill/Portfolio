@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Software Developer 🚀 having an experience of building Web and desktop applications with C# / C++ / Python / PHP and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1c7cv6Z5MWOnqXBTQ34GVT9PxI2GV3lrT/view", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1Ay7IelM6B5LNn7OLd-lQEgUHc6h3tH1k/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
