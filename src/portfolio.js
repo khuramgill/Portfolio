@@ -242,6 +242,19 @@ const achievementSection = {
         },
       ]
     },
+    
+    {
+      title: "Campus Ambassador @ Web3 Pak",
+      subtitle: "Represented Web3 Pak at UET Lahore, promoting blockchain technology and fostering student engagement.",
+      image: require("./assets/images/web3.webp"),
+      imageAlt: "Action on Google Badge",
+      footerLink: [
+        {name: "Certification", url: "https://www.linkedin.com/in/khuram-iqbal/details/certifications/"},
+        {name: "Web3 Pak", url: "https://web3pak.com/"}
+      ]
+      
+    }
+    ,
     {
       title: "Softec'23",
       subtitle:
@@ -255,19 +268,6 @@ const achievementSection = {
         }
       ]
     },
-
-    {
-      title: "Campus Ambassador @ Web3 Pak",
-      subtitle: "Represented Web3 Pak at UET Lahore, promoting blockchain technology and fostering student engagement.",
-      image: require("./assets/images/web3.webp"),
-      imageAlt: "Action on Google Badge",
-      footerLink: [
-        {name: "Certification", url: "https://www.linkedin.com/in/khuram-iqbal/details/certifications/"},
-        {name: "Web3 Pak", url: "https://web3pak.com/"}
-      ]
-
-    }
-,
     {
       title: "Other Certifications",
       subtitle: "Completed Certifcation from Various Platforms like Hackerrank, Udemy, etc.",
