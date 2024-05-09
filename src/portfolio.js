@@ -226,6 +226,17 @@ const achievementSection = {
 
   achievementsCards: [
     {
+      title: "Teaching Assistant @ UET Lahore",
+      subtitle:
+        "Guided and supported students as a Teaching Assistant at UET Lahore, facilitating an interactive learning environment.",
+      image: require("./assets/images/vector.webp"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {name: "Certification", url:"" },
+        {name: "Award Letter", Text: "Soon"}
+      ]
+    },
+    {
       title: "Youth Lead @ All Nations Bible Church Lahore",
       subtitle:
         "Expertly organize diverse religious events, fostering community engagement and spiritual growth.",
