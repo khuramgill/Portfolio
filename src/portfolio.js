@@ -187,10 +187,13 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
+  // 
   subtitle: "SOME OF MY BIG PROJECTS",
   projects: [
     {
       image: require("./assets/images/d.webp"),
+      // make the size of image at fill the box in which it is shown
+      
       projectName: "1-Life",
       projectDesc: "The 1Life Blood Donation and Money Management System is a groundbreaking platform in healthcare, revolutionizing the orchestration and execution of blood donation initiatives. In a society where timely access to safe blood transfusions can mean the difference between life and death, this system emerges as a holistic solution, bridging the gap between donors and recipients, ensuring the availability of life-saving blood precisely when it's most vital.",
       footerLink: [
