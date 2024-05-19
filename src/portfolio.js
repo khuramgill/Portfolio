@@ -301,10 +301,10 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://medium.com/@khuramiqbalofficial/the-impact-of-daily-leetcode-practice-on-personal-development-e98738c6379f",
-      title: "The Impact of Daily LeetCode Practice on Personal Development.",
+      url: "https://medium.com/@khuramiqbalofficial/apis-a-digital-restaurant-1ccee1dc4425",
+      title: "APIs - A Digital Restaurant",
       description:
-        "In the realm of programming and software development, the importance of continuous learning and skill enhancement cannot be overstated. One popular avenue for honing coding skills is engaging in daily LeetCode practice. In this blog post, we explore the significance of daily LeetCode challenges and how they contribute to personal development."
+        "You can think of APIs as being like a waiter at a restaurant, serving as a go-between for the customer and the kitchen"
     },
     {
       url: "https://medium.com/@khuramiqbalofficial/beyond-limits-the-art-and-science-of-scalability-in-modern-technology-bd86af4760ab",
