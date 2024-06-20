@@ -47,17 +47,21 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "CRAZY Desktop/Web DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
-  skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and Desktop applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS "
-    )
-  ],
+title: "What I do",
+subTitle: "INNOVATIVE DEVELOPER EXPLORING EVERY TECH STACK, FROM DESKTOP/WEB TO AI",
+skills: [
+  emoji(
+    "⚡ Develop highly interactive Front end / User Interfaces for your web and Desktop applications"
+  ),
+  emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+  emoji(
+    "⚡ Integration of third party services such as Firebase/ AWS"
+  ),
+  emoji("⚡ Building and deploying machine learning models and AI solutions"),
+  emoji("⚡ Expertise in Microsoft Azure AI services and tools"),
+  emoji("⚡ Implementing AI-driven features to enhance user experience and functionality")
+],
+
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
