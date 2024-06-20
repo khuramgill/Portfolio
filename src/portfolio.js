@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Software Developer 🚀 having an experience of building Web and desktop applications with C# / C++ / Python / PHP and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1Ay7IelM6B5LNn7OLd-lQEgUHc6h3tH1k/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1xSxQfOgKPIIAmEUqUzD6yxjGyZJFVkjO/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -228,6 +228,17 @@ const achievementSection = {
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achievementsCards: [
+    {
+      title: "Microsoft Certified: Azure AI Engineer",
+      subtitle:
+        "Awarded Microsoft Certified: Azure AI certification for my proficiency in AI and machine learning models.",
+      image: require("./assets/images/AI-900+Badge.png"),
+      imageAlt: "AI-900 Badge",
+      footerLink: [
+        {name: "Certification", url:"https://learn.microsoft.com/en-us/users/khuramiqbal-2299/credentials/beb2d1a61d4da85e" },
+        {name: "Award Letter", Text: "Soon"}
+      ]
+    },
     {
       title: "Teaching Assistant @ UET Lahore",
       subtitle:
