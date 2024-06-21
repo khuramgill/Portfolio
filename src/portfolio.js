@@ -23,7 +23,7 @@ const greeting = {
   username: "Khuram Iqbal",
   title: "Hi all, I'm Khuram",
   subTitle: emoji(
-    "A passionate Software Developer 🚀 having an experience of building Web and desktop applications with C# / C++ / Python / PHP and some other cool libraries and frameworks."
+    "A passionate Software Developer 🚀 with experience in building web and desktop applications using C#, C++, Python, PHP, and other cool libraries and frameworks. Proficient in AI/ML and a Microsoft Certified Azure AI Engineer. Always eager to learn and apply new technologies to solve complex problems and drive innovation."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1xSxQfOgKPIIAmEUqUzD6yxjGyZJFVkjO/view?usp=sharing", // Set to empty to hide the button
