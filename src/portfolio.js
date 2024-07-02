@@ -109,7 +109,7 @@ const educationInfo = {
       logo: require("./assets/images/uetlogo.png"),
       subHeader: "Bachelor of Computer Science",
       duration: "December 2022 - Present",
-      desc: "Teaching Assistant @UET,Lhr Sep 2023-Present.",
+      desc: "Teaching Assistant @UET,Lhr Sep 2023 - May 2024.",
       descBullets: [
         "Guided and supported students as a Teaching Assistant at UET Lahore, facilitating an interactive learning environment.",
         "Assisted in lesson planning, student engagement, and addressing academic queries to enhance the educational experience."
