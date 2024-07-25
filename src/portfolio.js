@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Software Developer 🚀 with experience in building web and desktop applications using C#, C++, Python, PHP, and other cool libraries and frameworks. Proficient in AI/ML and a Microsoft Certified Azure AI Engineer. Always eager to learn and apply new technologies to solve complex problems and drive innovation."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1xSxQfOgKPIIAmEUqUzD6yxjGyZJFVkjO/view?usp=sharing", // Set to empty to hide the button
+    "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
