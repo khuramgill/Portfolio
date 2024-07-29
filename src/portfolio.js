@@ -222,7 +222,7 @@ const achievementSection = {
       title: "Oracle Cloud Infrastructure 2024 Generative AI Professional (1Z0-1127-24)",
       subtitle:
         "Awarded Oracle Cloud Infrastructure 2024 Generative AI Professional (1Z0-1127-24) certification for my expertise in generative AI technologies and cloud-based AI solutions.",
-      image: require("./assets/images/Generative AI Professional.jpg"),
+      image: require("./assets/images/OCI.jpg"),
       imageAlt: "Generative AI Professional (1Z0-1127-24)",
       footerLink: [
         {name: "Certification", url:"https://catalog-education.oracle.com/pls/certview/sharebadge?id=6C6724CF3F95A60191203E46E4FA1CEB62114931AE5CC83818B625DC32F0777D" },
