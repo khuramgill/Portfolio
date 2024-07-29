@@ -226,7 +226,7 @@ const achievementSection = {
       imageAlt: "Generative AI Professional (1Z0-1127-24)",
       footerLink: [
         {name: "Certification", url:"https://catalog-education.oracle.com/pls/certview/sharebadge?id=6C6724CF3F95A60191203E46E4FA1CEB62114931AE5CC83818B625DC32F0777D" },
-        {name: "Award Letter", Text: "https://drive.google.com/file/d/1iYIBl8g5LPz3t0cH8DhQrQD-6SizHE1G/view?usp=sharing"}
+        {name: "Award Letter", url: "https://drive.google.com/file/d/1iYIBl8g5LPz3t0cH8DhQrQD-6SizHE1G/view?usp=sharing"}
       ]
     },
     {
