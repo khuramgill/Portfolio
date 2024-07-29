@@ -237,7 +237,7 @@ const achievementSection = {
       imageAlt: "AI-900 Badge",
       footerLink: [
         {name: "Certification", url:"https://learn.microsoft.com/en-us/users/khuramiqbal-2299/credentials/beb2d1a61d4da85e" },
-        {name: "Award Letter", Text: "https://drive.google.com/file/d/1eaoXfLOaSFIEp1BQayAkkFUD_KeUMwOi/view?usp=sharing"}
+        {name: "Award Letter", url: "https://drive.google.com/file/d/1eaoXfLOaSFIEp1BQayAkkFUD_KeUMwOi/view?usp=sharing"}
       ]
     },
     {
