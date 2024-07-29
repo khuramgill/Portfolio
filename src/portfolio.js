@@ -221,7 +221,7 @@ const achievementSection = {
     {
       title: "Oracle Cloud Infrastructure 2024 Generative AI Professional (1Z0-1127-24)",
       subtitle:
-        "Awarded Microsoft Certified: Azure AI certification for my proficiency in AI and machine learning models.",
+        "Awarded Oracle Cloud Infrastructure 2024 Generative AI Professional (1Z0-1127-24) certification for my expertise in generative AI technologies and cloud-based AI solutions.",
       image: require("./assets/images/Generative AI Professional.jpg"),
       imageAlt: "Generative AI Professional (1Z0-1127-24)",
       footerLink: [
