@@ -155,7 +155,7 @@ const workExperiences = {
       role: "Generative AI Intern",
       company: "Xavor Corporation",
       companylogo: require("./assets/images/xavor.jpeg"),
-      date: "May 2024 – Present",
+      date: "May 2024 – September 2024",
       desc: "Collaborated with UCI students on advanced AI concepts in a bootcamp setting.",
       descBullets: [
         "Gained hands-on experience in data preprocessing, prompt engineering, RAG, word embeddings, fine-tuning, and more.",
