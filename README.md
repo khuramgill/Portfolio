@@ -34,7 +34,7 @@ Created something awesome for your fork of the portfolio and want to share it? F
 ✔️ Twitter Timeline\
 ✔️ GitHub Profile
 
-To view a live example, **[click here](https://main--relaxed-salmiakki-a6bcb8.netlify.app/)**.
+To view a live example, **[click here](https://khuramgill.co/)**.
 
 
 ## Getting Started
@@ -145,9 +145,9 @@ Set `displayMediumBlogs` to true or false in portofolio.js to display fetched Me
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm Saad",
+  title: "Hi all I'm Khuram",
   subTitle: emoji("A passionate Software Developer 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1c7cv6Z5MWOnqXBTQ34GVT9PxI2GV3lrT/view"
+  resumeLink: "https://drive.google.com/file/d/1bqCwyR10-AZRfcVrbaS0BQOa_KxepYte/view?usp=sharing"
 };
 
 const socialMediaLinks = {
@@ -245,7 +245,7 @@ For more information, read [hosting on Netlify](https://create-react-app.dev/doc
 
 
 ## For the Future
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/saadpasta/developerFolio/pulls).
+If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/khuramgill/Portfolio/pulls).
 
 - Connect with LinkedIn to get Summary, Skills, Education and Experience
 
