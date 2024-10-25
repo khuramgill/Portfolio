@@ -23,7 +23,7 @@ const greeting = {
   username: "Khuram Iqbal",
   title: "Hi all, I'm Khuram",
   subTitle: emoji(
-    "Dedicated software developer and generative AI expert 🚀 with a solid background in AI-driven solutions, with a focus on creating intelligent apps for data science, NLP, and healthcare. proficient in Python, C#, and C++ web and desktop application development, with a strong background in complex frameworks like LangChain, BERT, and GPT-3, as well as libraries like TensorFlow and Pandas. Oracle Generative AI Professional and Microsoft Certified Azure AI Engineer with practical experience in Gen AI methods like as RAG, semantic search, and LLM deployment. In order to address difficult problems and produce significant results, I'm constantly keen to innovate and use new technology."
+    "Dedicated Software Developer and Generative AI Specialist 🚀 skilled in AI-driven solutions for data science, NLP, and healthcare. Proficient in Python, C#, and C++ for web and desktop applications, with expertise in frameworks like LangChain, BERT, GPT-3, and tools like TensorFlow and Pandas. Certified Oracle Generative AI Professional and Microsoft Azure AI Engineer, experienced in RAG, semantic search, and LLM deployment. Passionate about leveraging emerging tech to solve complex problems and create impactful solutions."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1bqCwyR10-AZRfcVrbaS0BQOa_KxepYte/view?usp=sharing", // Set to empty to hide the button
