@@ -1,47 +1,53 @@
 # Portfolio
-## Welcome to my portfolio repository! This repository contains the source code for my personal portfolio website.#
+## Welcome to my portfolio repository! 
+This repository contains the source code for my personal portfolio website.
 
-Just change `src/portfolio.js` to get your personal portfolio. Customize portfolio theme by using your own color scheme globally in the  `src/_globalColor.scss` file. Feel free to use it as-is or personalize it as much as you want.
+Just change `src/portfolio.js` to get your personal portfolio. Customize the portfolio theme by updating your color scheme globally in the `src/_globalColor.scss` file. Feel free to use it as-is or personalize it as much as you want.
 
-If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/khuramgill/Portfolio/issues).
+If you'd like to **contribute** and make this even better, have a look at [Issues](https://github.com/khuramgill/Portfolio/issues).
 
 Created something awesome for your fork of the portfolio and want to share it? Feel free to open a [pull request](https://github.com/khuramgill/Portfolio/pulls).
 
 ## Table of Contents
-- [Sections](#sections) 
+- [Portfolio Sections](#portfolio-sections) 
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
-- [Linking portfolio to GitHub](#linking-portfolio-to-github)
-- [Linking blogs section to Medium](#linking-blogs-section-to-medium)
+- [Linking Portfolio to GitHub](#linking-portfolio-to-github)
+- [Linking Blogs Section to Medium](#linking-blogs-section-to-medium)
 - [Change and Customize](#change-and-customize-every-section-according-to-your-need)
 - [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
 - [Illustrations](#illustrations)
 - [For the Future](#for-the-future)
 
+---
+
 ## Portfolio Sections
-✔️ Summary and About me\
+✔️ Summary and About Me\
 ✔️ Skills\
 ✔️ Education\
 ✔️ Work Experience\
 ✔️ Open Source Projects Connected with GitHub\
 ✔️ Big Projects\
-✔️ Achievements And Certifications 🏆\
+✔️ Achievements and Certifications 🏆\
 ✔️ Blogs\
 ✔️ Talks\
 ✔️ Podcast\
-✔️ Contact me\
+✔️ Contact Me\
 ✔️ Twitter Timeline\
 ✔️ GitHub Profile
 
 To view a live example, **[click here](https://khuramgill.co/)**.
 
+---
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer or use [Docker](https://www.docker.com/products/docker-desktop).
+You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer, or you can use [Docker](https://www.docker.com/products/docker-desktop).
+
+
 
 ```
 node@v10.16.0 or higher
